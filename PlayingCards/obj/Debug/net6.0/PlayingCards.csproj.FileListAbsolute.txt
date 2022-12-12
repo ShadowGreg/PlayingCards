@@ -1,0 +1,15 @@
+C:\workspace\PlayingCards\PlayingCards\bin\Debug\net6.0\PlayingCards.exe
+C:\workspace\PlayingCards\PlayingCards\bin\Debug\net6.0\PlayingCards.deps.json
+C:\workspace\PlayingCards\PlayingCards\bin\Debug\net6.0\PlayingCards.runtimeconfig.json
+C:\workspace\PlayingCards\PlayingCards\bin\Debug\net6.0\PlayingCards.dll
+C:\workspace\PlayingCards\PlayingCards\bin\Debug\net6.0\PlayingCards.pdb
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.csproj.AssemblyReference.cache
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.AssemblyInfoInputs.cache
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.AssemblyInfo.cs
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.csproj.CoreCompileInputs.cache
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.dll
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\refint\PlayingCards.dll
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.pdb
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\PlayingCards.genruntimeconfig.cache
+C:\workspace\PlayingCards\PlayingCards\obj\Debug\net6.0\ref\PlayingCards.dll
